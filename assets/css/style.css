@@ -1,0 +1,40 @@
+/* #region debug */
+
+.debug header{
+    background-color: lightslategray;
+}
+
+/* #endregion debug */
+
+/* #region main */
+
+.line{
+    width: 100px;
+    height: 3px;
+    border-radius: 20px;
+}
+
+/* #region media querries */
+
+
+@media (min-width: 576px) {
+    
+}
+
+@media (min-width: 768px) {
+    .avatar{
+        width: 25%;
+    }
+}
+
+@media (min-width: 992px) {
+
+}
+
+@media (min-width: 1200px) {
+
+}
+
+@media (min-width: 1400px) {
+
+}

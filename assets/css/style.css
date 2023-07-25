@@ -18,6 +18,9 @@
     border-radius: 15px;
 }
 
+/* #region footer */
+
+
 /* #region media querries */
 
 
@@ -34,3 +37,21 @@
 @media (min-width: 1200px) {}
 
 @media (min-width: 1400px) {}
+
+/* #region colors */
+
+.ln_succes_text {
+    color: #1bbc9d;
+}
+
+.ln_succes {
+    background-color: #1bbc9d;
+}
+
+.ln_soft_dark {
+    background-color: #3b556d;
+}
+
+.ln_dark {
+    background-color: #2d3f50;
+}

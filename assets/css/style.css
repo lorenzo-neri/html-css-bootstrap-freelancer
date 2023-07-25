@@ -1,6 +1,6 @@
 /* #region debug */
 
-.debug header{
+.debug header {
     background-color: lightslategray;
 }
 
@@ -8,37 +8,29 @@
 
 /* #region main */
 
-.line{
+.line {
     width: 100px;
     height: 3px;
     border-radius: 20px;
 }
 
-#portfolio img{
+#portfolio img {
     border-radius: 15px;
 }
 
 /* #region media querries */
 
 
-@media (min-width: 576px) {
-    
-}
+@media (min-width: 576px) {}
 
 @media (min-width: 768px) {
-    .container-md{
-        width: 90%;
+    .container-md {
+        width: 80%;
     }
 }
 
-@media (min-width: 992px) {
+@media (min-width: 992px) {}
 
-}
+@media (min-width: 1200px) {}
 
-@media (min-width: 1200px) {
-
-}
-
-@media (min-width: 1400px) {
-
-}
+@media (min-width: 1400px) {}

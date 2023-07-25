@@ -14,6 +14,10 @@
     border-radius: 20px;
 }
 
+#portfolio img{
+    border-radius: 15px;
+}
+
 /* #region media querries */
 
 
@@ -22,9 +26,7 @@
 }
 
 @media (min-width: 768px) {
-    .avatar{
-        width: 25%;
-    }
+    
 }
 
 @media (min-width: 992px) {

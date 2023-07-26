@@ -18,6 +18,15 @@
     border-radius: 15px;
 }
 
+#btn_form{
+    transition: .6s;
+}
+
+#btn_form:hover{
+    background-color: black;
+    border-radius: 50%;
+}
+
 /* #region footer */
 
 
